@@ -1,0 +1,162 @@
+{
+  "main": {
+    "name": "Nathaniel Dao",
+    "occupation": "IT Technician / Application Developer",
+    "description": "After earning my Bachelor Degree in Computer Science from California State Polytechnic University, Pomona, I entered the technology world to explore my passion for Web Development, IT Information, and Game Development. Prior to graduated from Cal Poly Pomona, I was Front-End POS Application Developer at LogicLink INC. and IT Support Specialist at TouchNServe. After 6 months from graduation, I started Full-Stack Bootcamp at Westcliff University to improve my skills",
+    "image": "profilepic.jpg",
+    "bio": "Soon to be included",
+    "contactmessage": "Please feel free to contact me by filling out the form below.",
+    "email": "nathanielxd94@gmail.com",
+    "phone": "714-707-7738",
+    "address": {
+      "street": "17162 Make up Street",
+      "city": "Make-Up City",
+      "state": "Make-Up State",
+      "zip": "92773"
+    },
+    "website": "http://www.nathandev.com",
+    "resumedownload": "https://drive.google.com/file/d/1gKs9y9ZGhPUafHEGo5QLhS8xVgxzCb2_/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/nate.dao.39",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/NathanielDao",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/nathaniel-dao/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/nathanielxd94/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/ndao335",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Time to Show Off",
+    "education": [
+      {
+        "school": "California State Polytechnic University, Pomona",
+        "degree": "Bachelor’s Degree of Science, Computer Science",
+        "graduated": "December 2019",
+        "description": "Soon to be included"
+      },
+      {
+        "school": "Westcliff University",
+        "degree": "Full-Stack Bootcamp Certification",
+        "graduated": "June 2022",
+        "description": "Soon to be included"
+      },
+      {
+        "school": "Orange Coast College",
+        "degree": "associate Degree of Science, Computer Science",
+        "graduated": "June 2017",
+        "description": "Soon to be included"
+      }
+    ],
+    "work": [
+      {
+        "company": "Logiclink INC.",
+        "title": "Front-End POS Application Developer",
+        "years": "March 2016 - December 2017",
+        "description": "Soon to be included"
+      },
+      {
+        "company": "TouchNServe",
+        "title": "IT Technician",
+        "years": "March 2016 - December 2017",
+        "description": "Soon to be included"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "90%"
+      },
+      {
+        "name": "VueJs",
+        "level": "50%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      },
+      {
+        "name": "Secondary Language: Vietnamese",
+        "level": "100%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Art Live Show",
+        "category": "Art",
+        "image": "art-show.png",
+        "url": "https://github.com/NatexD/Art-Live-Show"
+      },
+      {
+        "title": "React - Food Blog",
+        "category": "Blog",
+        "image": "react-blog.jpg",
+        "url": "https://github.com/NatexD/React-Food-Blog"
+      },
+      {
+        "title": "Vue - Food Blog",
+        "category": "Blog",
+        "image": "vue-blog.jpg",
+        "url": "https://github.com/NatexD/Vue-Food-Blog"
+      },
+      {
+        "title": "React - Shopping Application",
+        "category": "Point of Sale",
+        "image": "react-shop.jpg",
+        "url": "https://github.com/NatexD/React-Shopping-Application"
+      },
+      {
+        "title": "React - Weather Application",
+        "category": "Information",
+        "image": "react-weather.jpg",
+        "url": "https://github.com/NatexD/React-Weather-Application"
+      },
+      {
+        "title": "MangaBento",
+        "category": "Entertainment",
+        "image": "mangabento.png",
+        "url": "https://github.com/NatexD/MangaBento"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Best student I ever have ^_^",
+        "user": "Professor Ghani Zahid - Westcliff University"
+      },
+      {
+        "text": "Second Person Testimonial",
+        "user": "Kent Kwan - Senior POS Application Developer at LogicLink INC"
+      }
+    ]
+  }
+}
